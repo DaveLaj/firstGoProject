@@ -1,0 +1,5 @@
+.env
+.env.staging
+.env.stage
+.env.production
+.env.prod
